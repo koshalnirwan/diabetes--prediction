@@ -15,3 +15,8 @@ This sigmoid function converts all values from ```- infinity to infinity``` in r
 ### Random Forest 
 Random forests is a supervised learning algorithm. It can be used both for classification and regression. It is also the most flexible and easy to use algorithm. A forest is comprised of trees. It technically is an ensemble method of decision trees generated on a randomly split dataset. This collection of decision tree classifiers is also known as the forest. The individual decision trees are generated using an attribute selection indicator such as information gain, gain ratio, and Gini index for each attribute. Each tree depends on an independent random sample. In a classification problem, **each tree votes and the most popular class is chosen as the final result.** In the case of regression, **the average of all the tree outputs is considered as the final result.** It is simpler and more powerful compared to the other non-linear classification algorithms.
 
+## Prediction
+
+Not Diabetic                                   |  Diabetic
+:---------------------------------------------:|:-------------------------:
+<img src="app.JPG" width=300>  |  <img src="app2.JPG" width=300>
